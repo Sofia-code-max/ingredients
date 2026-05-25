@@ -4,7 +4,7 @@ body{
     background-repeat: no-repeat;
 }
 
-buttonAdd{
+.buttonAdd{
     font-family: 'Montserrat' sans-serif;
     background-color: #77cf40;
     padding: 20px;
@@ -13,7 +13,7 @@ buttonAdd{
     font-size: 17px;
 }
 
-buttonDelete{
+.buttonDelete{
     font-family: 'Montserrat' sans-serif;
     background: none;
     border: 0;
@@ -39,7 +39,7 @@ h1{
     height: 60vh;
 }
 
-myInput{
+.myInput{
     width: 70%;
     height: 20px;
     padding: 10px;
