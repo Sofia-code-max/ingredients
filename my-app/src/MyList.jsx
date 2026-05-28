@@ -1,4 +1,4 @@
-const MyList = ({addMeal , mealPlans , setSelectedDay , selectedDay}) => {
+const MyList = ({addMeal , mealPlans , setSelectedDay , selectedDay , deleteDay}) => {
     return <div>
         <div>
             <h1>Weekly Plan Ideas</h1>
